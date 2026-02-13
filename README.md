@@ -3,7 +3,7 @@
 
 > Building serverless architectures and AI-powered products that scale.
 
-📄 **[View Full Resume](https://drive.google.com/file/d/1sA92lGDF8hajz8Hjqt--ZhpoACWwh3ew/view?usp=drive_link)**
+📄 **[View Full Resume](https://drive.google.com/file/d/1NlLDROfUpP4V_aq4uLx_DhwKF2RHG0mA/view?usp=sharing)**
 
 ---
 
@@ -15,7 +15,7 @@
 - 🏋️ **Gym-focused**: Help gyms retain members through community engagement
 - 👥 **Social crews**: Members compete in teams, creating accountability
 - 🎯 **27 exercises** analyzed with MediaPipe Pose (100% on-device)
-- 🗣️ **Voice coach** with 200+ localized Chilean phrases
+- 🗣️ **Voice coach** with 200+ localized phrases
 - 🦁 **Beast evolution system** - gamified progression across 6 tiers
 - 📱 **Cross-platform**: iOS + Android (React Native)
 - 💰 **B2B2C model**: Gyms get private branded instances
