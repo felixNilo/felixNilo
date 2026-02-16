@@ -107,7 +107,7 @@ GitHub Actions · CI/CD · Grafana · CloudWatch · Makefile
 
 - 🌎 Based in **Chile** 🇨🇱
 - 📧 felixjesusnilob@gmail.com
-- 📄 **[Full Resume](https://drive.google.com/file/d/1sA92lGDF8hajz8Hjqt--ZhpoACWwh3ew/view?usp=drive_link)**
+- 📄 **[Full Resume](https://drive.google.com/file/d/1QNblg1yzkOWQ2WuIU7RGBImf6PXVPHJj/view?usp=sharing)**
 
 ---
 
