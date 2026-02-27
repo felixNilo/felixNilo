@@ -42,6 +42,7 @@
 - Building **serverless carrier integrations** (Verizon, Vodafone, AT&T, Webbing)
 - Architecting with **Lambda, Step Functions, SQS, SNS, VPC Endpoints**
 - Automated deployment with **Serverless Framework + CloudFormation**
+- Developed internal AI-powered Slack bot using **Amazon Bedrock**
 - **Cost optimization** using AWS Powertools for Secrets Manager
 - **Grafana dashboards** for operational monitoring
 
