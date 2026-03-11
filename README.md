@@ -9,7 +9,7 @@
 
 ## 🚀 What I'm Building
 
-### [CREWED.FIT](https://crewed.fit) - Gym Community Platform
+### [CREWED](https://crewed.fit) - Gym Community Platform
 **Building loyal gym communities through AI coaching + social competition**
 
 - 🏋️ **Gym-focused**: Help gyms retain members through community engagement
