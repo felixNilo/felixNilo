@@ -24,15 +24,15 @@
 
 ---
 
-### Sistema Apolo - Clinical ROM Analysis
-**Real-time Range of Motion analysis for physiotherapy**
+### Agriculture ERP focused in IoT and UAV integration
+**Real-time fields performance and information**
 
-- 📊 **Live skeleton tracking** during patient exercises
-- 📈 **Quality metrics** with automatic repetition detection
-- 🏥 **Multi-location** clinic management
-- 💳 **Payment integration** with ETPay webhooks
+- 🤖 **Inside app bot specialized in the camp** to help answer critical data from the fields
+- 📈 **Performance metrics** with automatic microzones
+- 🌎 **Multi-location** fields to aim all the fields sizes
+- 💰 **Economic analysis** based in crops
 
-**Stack**: Django REST · React Native · NumPy · SciPy · Docker · Nginx
+**Stack**: Django REST · Leaflet · Docker · Nginx · AWS · Bedrock
 
 ---
 
@@ -46,7 +46,7 @@
 - **Cost optimization** using AWS Powertools for Secrets Manager
 - **Grafana dashboards** for operational monitoring
 
-**Lead of Engineering @ Crewed Spa** (Oct 2024 - Present)
+**Lead of Engineering @ Innovacion y Tecnologia Aplicada Spa** (Oct 2024 - Present)
 - Shipped mobile apps to **Google Play + Apple Store**
 - Integrated **Google/Apple Auth, In-App Payments, MediaPipe SDK**
 - **A/B testing** and user behavior monitoring with MS Clarity
@@ -67,7 +67,7 @@
 
 **Cloud & Serverless**
 ```
-AWS Lambda · API Gateway · Step Functions · SQS · SNS · S3 · RDS · DynamoDB
+AWS Lambda · API Gateway · EC2 · Step Functions · Bedrock · SQS · SNS · S3 · RDS · DynamoDB
 Serverless Framework · CloudFormation · Docker · Fargate
 ```
 
@@ -83,12 +83,12 @@ React Native · React · Redux · Expo · MediaPipe
 
 **Data & ML**
 ```
-PostgreSQL · MongoDB · NumPy · SciPy · MediaPipe Pose
+PostgreSQL · MySQL · MongoDB · NumPy · SciPy · MediaPipe Pose
 ```
 
 **DevOps**
 ```
-GitHub Actions · CI/CD · Grafana · CloudWatch · Makefile
+GitHub Actions · CI/CD · Grafana · CloudWatch · Makefile · Shell Script
 ```
 
 ---
