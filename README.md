@@ -50,6 +50,7 @@
 - Shipped mobile apps to **Google Play + Apple Store**
 - Integrated **Google/Apple Auth, In-App Payments, MediaPipe SDK**
 - **A/B testing** and user behavior monitoring with MS Clarity
+- Error visibility enhance with **Sentry**
 
 ---
 
