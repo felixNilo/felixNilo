@@ -3,7 +3,7 @@
 
 > Building serverless architectures and AI-powered products that scale.
 
-📄 **[View Full Resume](https://drive.google.com/file/d/1hDOsL27kC7ugasfjX22YSqKxVpaWmhLJ/view?usp=sharing)**
+📄 **[View Full Resume](https://drive.google.com/file/d/1SeMLgCF5StIuMD_KmoXJwUuQO8YAFmjF/view?usp=sharing)**
 
 ---
 
