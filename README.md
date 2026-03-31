@@ -24,18 +24,6 @@
 
 ---
 
-### [ACropHub](https://amissionhub.com/erp) - Agriculture ERP focused in IoT and UAV integration
-**Real-time fields performance and information**
-
-- 🤖 **Inside app bot specialized in the camp** to help answer critical data from the fields
-- 📈 **Performance metrics** with automatic microzones
-- 🌎 **Multi-location** fields to aim all the fields sizes
-- 💰 **Economic analysis** based in crops
-
-**Stack**: Django REST · Leaflet · Docker · Nginx · AWS · Bedrock
-
----
-
 ## 💼 Current Work
 
 **AWS Python Developer @ OptConnect** (May 2025 - Present)
