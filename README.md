@@ -9,18 +9,15 @@
 
 ## 🚀 What I'm Building
 
-### [CREWED](https://crewed.fit) - Gym Community Platform
-**Building loyal gym communities through AI coaching + social competition**
+### [AMISSIONHUB](https://amissionhub.com) - Agriculture ERP focused in IoT and UAV integration
+**Real-time fields performance and information**
 
-- 🏋️ **Gym-focused**: Help gyms retain members through community engagement
-- 👥 **Social crews**: Members compete in teams, creating accountability
-- 🎯 **27 exercises** analyzed with MediaPipe Pose (100% on-device)
-- 🗣️ **Voice coach** with 200+ localized phrases
-- 🦁 **Beast evolution system** - gamified progression across 6 tiers
-- 📱 **Cross-platform**: iOS + Android (React Native)
-- 💰 **B2B2C model**: Gyms get private branded instances
+- 🤖 **Inside app bot specialized in the camp** to help answer critical data from the fields
+- 📈 **Performance metrics** with automatic microzones
+- 🌎 **Multi-location** fields to aim all the fields sizes
+- 💰 **Economic analysis** based in crops
 
-**Stack**: Django · React Native · MediaPipe · Firebase · PostgreSQL · AWS
+**Stack**: Django REST · Leaflet · Docker · Nginx · AWS · Bedrock
 
 ---
 
