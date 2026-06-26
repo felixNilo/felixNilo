@@ -9,7 +9,7 @@
 
 ## 🚀 What I'm Building
 
-### [AMISSIONHUB](https://amissionhub.com) - Agriculture ERP focused in IoT and UAV integration
+### [AMissionHub](https://amissionhub.com) - Agriculture ERP focused in IoT and UAV integration
 **Real-time fields performance and information**
 
 - 🤖 **Inside app bot specialized in the camp** to help answer critical data from the fields
