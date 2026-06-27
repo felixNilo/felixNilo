@@ -3,7 +3,7 @@
 
 > Building serverless architectures and AI-powered products that scale.
 
-📄 **[View Full Resume](https://drive.google.com/file/d/1SeMLgCF5StIuMD_KmoXJwUuQO8YAFmjF/view?usp=sharing)**
+📄 **[View Full Resume](https://drive.google.com/file/d/1rQwB-DFdq-1Bkb9ecYLC7r8OPCu9Y5et/view?usp=sharing)**
 
 ---
 
@@ -94,7 +94,7 @@ GitHub Actions · CI/CD · Grafana · CloudWatch · Makefile · Shell Script
 
 - 🌎 Based in **Chile** 🇨🇱
 - 📧 felixjesusnilob@gmail.com
-- 📄 **[Full Resume](https://drive.google.com/file/d/1SeMLgCF5StIuMD_KmoXJwUuQO8YAFmjF/view?usp=sharing)**
+- 📄 **[Full Resume](https://drive.google.com/file/d/1rQwB-DFdq-1Bkb9ecYLC7r8OPCu9Y5et/view?usp=sharing)**
 
 ---
 
